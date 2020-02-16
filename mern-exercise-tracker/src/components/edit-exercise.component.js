@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
 
-export default class EditUsers extends Component {
+export default class EditExercises extends Component {
     render() {
         return(
             <div>
-                <p>You are on the Users Edit component!</p>
+                <p>You are on the Exercises Edit component!</p>
             </div>
         )
     }
